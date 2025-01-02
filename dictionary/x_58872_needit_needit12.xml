@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" db_object_id="734907928372121042cb6f60ceaad317" extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit12" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="test" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+            </choice>
+        </element>
+    </element>
+</database>
